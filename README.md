@@ -1,4 +1,4 @@
-# Tabuada-de-multiplicar
+# Tabuada de Multiplicar
 
 programa
 {
